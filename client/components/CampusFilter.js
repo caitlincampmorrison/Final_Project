@@ -4,7 +4,7 @@ import { Link } from "react-router-dom" //new
 import Main from './Main' //new
 import {updateCampusFilter} from '../store'
 
-
+//NOT CURRENTLY WORKING
 class CampusFilter extends React.Component {   
     render(){ 
         return (
